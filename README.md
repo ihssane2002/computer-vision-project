@@ -46,7 +46,7 @@ Le modèle détecte si une **personne** est présente dans une zone marquée com
 -  Sinon : `return 0`
 
 🔽 Exemple visuel (à insérer dans `assets/`):
-![Zone Dangereuse](images/danger.jpg)
+![Zone Dangereuse](danger.png)
 
 ---
 
@@ -54,7 +54,7 @@ Le modèle détecte si une **personne** est présente dans une zone marquée com
 À partir d’une image du poste de travail, le modèle détecte les éléments non conformes (désordre, obstacles, équipements de sécurité manquants) pour estimer un **score 5S** automatiquement.
 
 🔽 Exemple visuel :
-![Score 5S](images/5s.jpg)
+![Score 5S](5s.png)
 
 ---
 
