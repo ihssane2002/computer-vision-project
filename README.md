@@ -46,7 +46,7 @@ Le modèle détecte si une **personne** est présente dans une zone marquée com
 -  Sinon : `return 0`
 
 🔽 Exemple visuel (à insérer dans `assets/`):
-![Zone Dangereuse](danger.png)
+![Zone Dangereuse](danger%20.png)
 
 ---
 
