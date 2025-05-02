@@ -1,10 +1,10 @@
 
-# 🧠 YOLOv8 Computer Vision Model - Detection de Personnes & Évaluation 5S
+# YOLOv8 Computer Vision Model - Detection de Personnes & Évaluation 5S
 
 Ce projet a été réalisé dans le cadre d’un projet enjeu en collaboration avec **Tecpap** et **Coca-Cola**, visant à améliorer la sécurité industrielle et l'organisation des espaces de travail selon la méthode 5S.
 
 Le modèle développé est basé sur **YOLOv8** pour :
-- ⚠ Détecter la présence humaine dans une zone dangereuse.
+-  Détecter la présence humaine dans une zone dangereuse.
 -  Calculer automatiquement le **score 5S** à partir d’images du poste de travail.
 
 ##  Contenu du dépôt
