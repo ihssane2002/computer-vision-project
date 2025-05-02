@@ -54,7 +54,7 @@ Le modèle détecte si une **personne** est présente dans une zone marquée com
 À partir d’une image du poste de travail, le modèle détecte les éléments non conformes (désordre, obstacles, équipements de sécurité manquants) pour estimer un **score 5S** automatiquement.
 
 🔽 Exemple visuel :
-![Score 5S](5s.png)
+![Score 5S](5S%20.png)
 
 ---
 
