@@ -69,9 +69,9 @@ Le modèle détecte si une **personne** est présente dans une zone marquée com
  ##  Perspectives
 Dans le cadre de la continuité du projet, nous envisageons d’utiliser ce modèle YOLOv8 pour analyser des images réelles capturées dans les locaux des entreprises partenaires :
 
-# - Tecpap 
+### - Tecpap 
 
-# - Coca-Cola 
+### - Coca-Cola 
 
 L’objectif est de tester la robustesse du modèle sur des données du terrain et d’adapter les détections à des scénarios spécifiques (PPE, obstacles, non-conformités…).
 
